@@ -1,0 +1,27 @@
+{
+    "id": "B4009BFE",
+    "path": "~/DataScience/Stellar_Class/notebooks/EDA_BOOK.R",
+    "project_path": "EDA_BOOK.R",
+    "type": "r_source",
+    "hash": "3550933765",
+    "contents": "",
+    "dirty": false,
+    "created": 1780417622585.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "211,0",
+        "scrollLine": "0"
+    },
+    "folds": "12|12|71|0|\n72|26|136|0|\n137|11|171|0|\n172|14|208|0|\n",
+    "lastKnownWriteTime": 1780434433,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1780434433283,
+    "read_only": false,
+    "read_only_alternatives": []
+}
